@@ -1,0 +1,14 @@
+
+div {
+  width: 400px;
+    height: 200px;
+    background-color: red;
+    border-radius: 50px;
+    border: 20px groove tomato;
+    background-image: url("C:\Users\Salma\Documents\download.jpg");
+    background-size: cover;
+    background-repeat: no-repeat;
+
+
+
+}
