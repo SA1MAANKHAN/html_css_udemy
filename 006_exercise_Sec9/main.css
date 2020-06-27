@@ -1,0 +1,39 @@
+html{
+  background-color: blue;
+}
+body{
+  background-color: green;
+  width: 60% ;
+  height: 80%;
+  margin:0 auto;
+  border-style: solid;
+border-color: black;
+  border-width: 10px;
+}
+img{
+  display: block;
+ margin-left: auto;
+ margin-right: auto;
+ margin-top: auto;
+  border-radius: 90%;
+  border-color: gold;
+  border-width: 10px;
+  border-style: groove;
+}
+h1 ,h2 ,h3{
+  margin: 30px;
+  font-style: italic;
+}
+h1{
+  color: yellow;
+}
+h2{
+  color: purple;
+}
+h3{
+  color: hotpink;
+}
+p{
+  margin: 30px;
+  font-style: italic;
+}
