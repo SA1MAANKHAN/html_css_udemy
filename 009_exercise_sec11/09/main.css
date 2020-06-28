@@ -1,0 +1,10 @@
+p{
+  font-size: 2rem;
+  text-indent: 4rem;
+}
+p::first-letter{
+  font-size: 4rem;
+}
+p::first-line{
+  font-weight: bold;
+}

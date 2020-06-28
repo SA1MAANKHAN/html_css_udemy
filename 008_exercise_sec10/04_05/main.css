@@ -1,0 +1,9 @@
+a{
+  color: blue;
+}
+a.class{
+  color: red;
+}
+[target^=_blank]{
+  color: green;
+}

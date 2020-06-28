@@ -1,0 +1,17 @@
+html{
+  background: lightblue;
+}
+body{
+  height: 500px;
+  width: 80%;
+  margin: 0 auto;
+}
+a{
+  display: block;
+  margin-top: 50px;
+  color: green;
+}
+[target^="one"]{
+border: solid;
+border-color: red;
+}

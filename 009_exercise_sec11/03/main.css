@@ -1,0 +1,15 @@
+p.one{
+  font-family: 'MuseoModerno', cursive;
+  font-weight: 300;
+  font-size: 1rem
+}
+p.two{
+  font-family: 'MuseoModerno', cursive;
+  font-weight: 500;
+    font-size: 2rem
+}
+p.three{
+  font-family: 'MuseoModerno', cursive;
+  font-weight: 900;
+    font-size: 3rem
+}
