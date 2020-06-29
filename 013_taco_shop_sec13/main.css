@@ -1,0 +1,19 @@
+
+
+nav , main {
+  border-style: double;
+  border-color: red;
+  display: inline-block;
+  padding: 1rem ;
+  box-sizing: border-box;
+}
+h2{
+  color: red;
+}
+main{
+  width: 500px;
+
+}
+nav{
+  vertical-align: top;
+}
