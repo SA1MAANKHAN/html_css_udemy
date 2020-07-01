@@ -1,0 +1,37 @@
+html,body,div{
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  flex-flow: row wrap;
+}
+div{
+  height: 100px;
+  text-align: center;
+  line-height: 50px;
+  font-weight: bold;
+}
+.c1, .c2. ,.c3 ,.c4 ,.c5,.c6,.c7{
+  height: 80px;
+}
+.c1{
+width: 100%;
+}
+.c2{
+  width: 100%;
+}
+.c3{
+  width: 100%;
+}
+.c4{
+  width: 100%;
+}
+.c5{
+  width: 100%;
+}
+.c6{
+  width: 100%;
+}
+.c7{
+  width: 100%;
+}

@@ -1,0 +1,29 @@
+body{
+  display: flex;
+  justify-content: space-around;
+  align-items: stretch;
+  height: auto;
+
+}
+div{
+  height: 100px;
+  width: 150px;
+  background-color: lightblue;
+  padding: 20px;
+  border-style: dotted;
+  border-color: darkblue;
+}
+p{
+  color: blue;
+  text-align: center;
+
+}
+.one{
+  flex-grow: 0.1;
+}
+.two{
+  flex-grow: 6;
+}
+.three{
+  flex-grow: 1;
+}

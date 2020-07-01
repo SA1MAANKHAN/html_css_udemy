@@ -1,0 +1,37 @@
+*{
+    font-family: 'Krona One', sans-serif;
+    justify-content: center;
+}
+html{
+  background-color: white;
+}
+body{
+  width: 80% 80%;
+  height: auto;
+  background-color: lightgrey;
+  padding: 20px;
+  display: block;
+}
+.sample{
+  border-style: solid;
+  border-color: black;
+}
+header{
+  margin: 10%;
+}
+h1{
+
+}
+.para{
+  border-style: solid;
+  border-color: black;
+  padding: 30px;
+}
+img{
+  border-style: solid;
+  border-color: black;
+  display: block;
+  margin-top: 20px;
+  margin-left: auto;
+ margin-right: auto;
+}
