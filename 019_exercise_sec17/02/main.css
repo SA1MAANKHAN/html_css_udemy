@@ -1,0 +1,23 @@
+body{
+  display: flex;
+  flex-flow: column wrap;
+  align-items: center;
+  border: 2px solid black;
+  width: 60%;
+  margin-left: 100px;
+
+}
+
+div{
+
+  display: block;
+  width: 10rem;
+  height: 10rem;
+  background-color: orange;
+  border: 2px solid red;
+}
+.d2{
+position: relative;
+top:10px;
+left: 10px;
+}

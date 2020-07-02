@@ -1,0 +1,51 @@
+*{
+  font-family: 'MuseoModerno', cursive;
+}
+html{
+  background-image: url("C:/Users/Salma/Downloads/22975748 back.jpg");
+}
+html,body,div{
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  flex-flow: row wrap;
+  justify-content: space-around;
+
+}
+div{
+  height: 80px;
+  text-align: center;
+    padding-top: 1.3rem;
+
+
+
+}
+.c1,.c2,.c3,.c4{
+  height: 80px;
+  border-radius: 8%;
+  margin: 1px 1px;
+}
+.c1{
+    width: 24%;
+}
+.c2{
+    width: 24%;
+}
+.c3{
+    width: 24%;
+}
+.c4{
+    width: 24%;
+}
+a{
+  font-weight: bold;
+  color: white;
+  text-decoration: none;
+
+  }
+
+div:hover{
+  background-image: url("C:/Users/Salma/Downloads/22975748 blur.jpg");
+  box-shadow: 4px 4px 10px;
+}
