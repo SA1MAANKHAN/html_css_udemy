@@ -1,0 +1,35 @@
+html , body , header , nav ,main ,footer {
+  box-sizing: border-box;
+}
+body{
+  margin: 20px;
+}
+ header , nav ,main ,footer {
+   border-radius: 10px;
+ }
+ header{
+   height: 30px;
+   background-color: pink;
+ }
+ nav{
+   float: left;
+   height : 200px;
+   width: 24%;
+   background-color: orange;
+   margin-top: 5px;
+ }
+ main{
+   float: right;
+   height : 200px;
+   width: 74%;
+   background-color: skyblue;
+   margin-top: 5px;
+   margin-bottom: 5px;
+
+ }
+ footer{
+   clear: both;
+   height: 30px;
+   background-color: yellow;
+
+ }

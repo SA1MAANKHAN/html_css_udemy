@@ -1,0 +1,8 @@
+body{
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-image: url("D:/Files/online/Html Css/html-css-bootcamp-master/037_background/03_hands-on-exercises/exercise-files/dog.png");
+  height: 700px;
+}

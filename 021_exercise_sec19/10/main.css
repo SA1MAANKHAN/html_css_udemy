@@ -1,0 +1,14 @@
+p{
+
+  /* justify-content: center; */
+  /* display: flex; */
+  /* align-items: center; */
+  background-image: url("D:/Files/online/Html Css/html-css-bootcamp-master/037_background/03_hands-on-exercises/exercise-files/dog.png");
+  background-repeat:no-repeat;
+border: 20px solid black;
+background-color: blue;
+background-origin: content-box;
+background-size: contain;
+padding: 30px;
+color: white;
+}
