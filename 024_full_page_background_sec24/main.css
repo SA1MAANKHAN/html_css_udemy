@@ -1,0 +1,85 @@
+*{
+  font-family: 'Quicksand', sans-serif;
+}
+body{
+  padding: 0;
+  border: 0;
+  margin: 0;
+
+}
+.header{
+  padding-left: 30px;
+}
+
+header{
+  display: flex;
+  flex-flow: row nowrap;
+  position: fixed;
+  justify-content: space-between;
+  align-items: center;
+  top:0;
+  left:0;
+  height: 40px;
+  background-color: rgba(0, 0, 0, 0.5);
+  width: 100%;
+}
+container{
+  height:90%;
+  width :100px;
+  margin: 10px;
+}
+svg {
+    fill: currentColor;
+}
+
+#mySvg {
+    color: green;
+}
+
+nav{
+  height:90%;
+  width :100px;
+  margin: 10px;
+  background-color: red;
+}
+img{
+  s
+}
+  section{
+    display: flex;
+    flex-flow: column ;
+    justify-content: center;
+    align-items: center;
+    background-color: #518982;
+    background-image: url("C:/Users/Salma/Documents/GitHub/html_css_udemy/998_images/background-photo.jpg");
+    background-size: cover;
+    background-attachment: fixed;
+    background-position: center;
+    height: 100vh;
+  }
+h1,h2{
+
+  text-align: center;
+  color: white;
+}
+h1{
+  font-weight: lighter;
+}
+h2{
+  font-size: 0.8rem;
+}
+h2.two{
+  font-weight: normal;
+}
+button{
+    background-color: transparent;
+    font-weight: bold;
+    color: white;
+    border: 1px solid white;
+    border-radius: 3px;
+    cursor: pointer;
+    padding: 6px;
+}
+button:hover{
+box-shadow: 1px 1px 4px;
+}

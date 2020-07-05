@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120" height="120" version="1.1" viewBox="0 0 144 144" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+ <metadata>
+  <rdf:RDF>
+   <cc:Work rdf:about="">
+    <dc:format>image/svg+xml</dc:format>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:title/>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <g  font-family="FontAwesome" letter-spacing="0px" text-anchor="middle" word-spacing="0px">
+  <text x="32.577419" y="50.255089" font-size="96px" stroke="#000000" stroke-width="1px" text-align="center" style="line-height:1000%" xml:space="preserve"><tspan x="32.577419" y="50.255089"/><tspan x="32.577419" y="1010.2551"></tspan></text>
+  <g font-size="120px" stroke-width="1.2px">
+   <g stroke="#000000">
+    <text x="50.91169" y="93.338097" text-align="center" style="line-height:1000%" xml:space="preserve"><tspan x="50.91169" y="93.338097" stroke-width="1.2px"/></text>
+    <text x="77.571434" y="130.28571" text-align="center" style="line-height:1000%" xml:space="preserve"><tspan x="77.571434" y="130.28571" stroke-width="1.2px"/></text>
+    <text x="71.142853" y="132" text-align="center" style="line-height:1000%" xml:space="preserve"><tspan x="71.142853" y="132" stroke-width="1.2px"/></text>
+   </g>
+   <text x="69.857147" y="113.14285" stroke="#ffffff" text-align="center" style="line-height:1000%" xml:space="preserve"><tspan x="84.857147" y="113.14285" fill="#ffffff" stroke="#ffffff" stroke-width="1.2px"> </tspan></text>
+  </g>
+ </g>
+</svg>
