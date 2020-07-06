@@ -1,0 +1,28 @@
+*{
+  font-size: 1.2vw;
+}
+html ,body ,div{
+  padding: 0;
+  border: 0 ;
+  margin: 0;
+}
+
+container{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+}
+div{
+  display: flex;
+  justify-content:center;
+  width: 14rem;
+  height: 8rem;
+  font-size: 5rem;
+  font-weight: bolder;
+  border-bottom: 3px solid grey;
+}
+.d1:hover,.d2:hover,.d3:hover,.d4:hover{
+  border-bottom: 6px solid lightgreen;
+}
