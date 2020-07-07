@@ -1,0 +1,15 @@
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+}
+.phone_svg{
+  height: 200px;
+  fill:lightgrey;
+  padding: 90px 0;
+  border: 1px solid grey;
+  border-radius: 100%;
+
+}

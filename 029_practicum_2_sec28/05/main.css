@@ -1,0 +1,58 @@
+*{
+  padding: 0;
+  border: 0;
+  margin:0;
+  box-sizing: border-box;
+}
+html , body , section ,div {
+  padding: 0;
+  border: 0;
+  margin:0;
+
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  box-sizing: border-box;
+  height: 100vh;
+}
+section{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+
+  height: 80% ;
+  width:  90%;
+  border: 2px solid lightgrey;
+  border-radius: 5px;
+}
+div{
+  display: flex;
+
+  align-items: center;
+  width: 80%;
+}
+.d1{
+  justify-content: flex-start;
+  border-bottom: 2px solid lightgrey;
+}
+.d2{
+  justify-content: flex-end;
+}
+.d3{
+  justify-content: flex-start;
+  border-top: 2px solid lightgrey;
+
+}
+.svg{
+  height: 100px;
+  fill: lightgrey;
+}
+p{
+  font-size: 1.5rem;
+  color:grey;
+}
+.p3{
+  margin-left: 100px;
+}

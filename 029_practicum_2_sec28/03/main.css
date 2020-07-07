@@ -1,0 +1,52 @@
+html ,body , h1 ,h2,h3{
+  padding :0;
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+display: flex;
+justify-content: center;
+flex-direction: column;
+align-items: center;
+height: 100vh;
+}
+.smile_svg{
+  fill: lightgrey;
+  height: 100px;
+}
+h1{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 4rem;
+  color: grey;
+  width: 600px;
+
+  /* border: 2px dotted hotpink; */
+
+}
+h2{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: grey;
+  width: 600px;
+
+    /* border: 2px dotted hotpink; */
+}
+h3{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  color: white;
+  height: 70px;
+  width: 150px;
+  background-color: deepskyblue;
+  border-radius: 5px;
+  margin-top: 20px;
+    /* border: 2px dotted hotpink; */
+}

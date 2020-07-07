@@ -1,0 +1,62 @@
+html , body ,div ,container{
+  padding: 0;
+  border: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body{
+display: flex;
+flex-direction: column;
+justify-content: center;
+align-items: center;
+}
+container{
+  width: 80%;
+  height: 100vh;
+  text-align: center;
+  border-bottom: 2px solid grey;
+
+}
+p{
+  color: grey;
+  font-size: 6rem;
+}
+section{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+
+}
+.load_svg{
+  fill:grey;
+  width:  80px;
+  height: 80px;
+  margin: 20px;
+/* animation */
+  animation-name: spin;
+  animation-duration: 4s;
+  animation-iteration-count: infinite;
+  animation-timing-function: linear;
+
+}
+@keyframes spin {
+  0%{transform: rotate(0);}
+  100%{transform: rotate(360deg);}
+}
+div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  font-size: 2rem;
+  color: deepskyblue;
+  width: 100px;
+  height: 70px;
+
+}
+.button{
+  color: white;
+  background-color: deepskyblue;
+  border-radius: 4px;
+}
