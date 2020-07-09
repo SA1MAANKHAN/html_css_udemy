@@ -1,0 +1,93 @@
+*{
+    font-family: sans-serif;
+}
+html , body {
+  padding: 0;
+  border: 0;
+  margin: 0;
+
+  box-sizing: border-box;
+}
+body , header ,section ,article ,div{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    flex-direction: column;
+}
+header{
+  flex-direction: column;
+}
+h1.header{
+  font-weight: normal;
+  color: grey;
+}
+div.header{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+    flex-direction: row;
+}
+button.header{
+  margin: 0 10px;
+  border: 0;
+  border-radius: 3px;
+  padding: 10px;
+  color: grey;
+  height: 35px;
+  width: 100px;
+}
+section.sec1{
+  margin-top: 30px;
+  width: 100%;
+  height: 400px;
+  background-image: url("C:/Users/Salma/Documents/GitHub/html_css_udemy/998_images/fam_blur.jpg");
+  background-size: cover;
+  background-position: center;
+
+}
+h1.section{
+  color: white;
+  font-family: sans-serif;
+  font-size: 3rem;
+}
+h2.section{
+  color: white;
+  font-size: 1rem;
+  font-weight: lighter;
+    font-family: serif;
+}
+button.section{
+  background-color: red;
+  border: 0;
+  height: 40px;
+  width: 200px;
+  color: white;
+  margin: 20px ;
+}
+article{
+  width: 70%;
+}
+h1.article_heading{
+    color: grey;
+  text-decoration:underline;
+}
+h1.article{
+  color: grey;
+}
+p.article{
+  color:grey;
+}
+section.sec2{
+  flex-direction: row;
+}
+li{
+  color: grey;
+  margin-bottom: 8px;
+}
+img{
+  margin-left: 300px;
+}
+div.border{
+
+  border-bottom: 2px solid lightgrey;
+}

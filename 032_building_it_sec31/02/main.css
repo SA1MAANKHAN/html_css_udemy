@@ -1,0 +1,83 @@
+*{
+  color: white;
+  font-family: sans-serif;
+}
+html , body {
+  padding: 0;
+  border: 0;
+  margin: 0;
+
+  box-sizing: border-box;
+}
+body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+  height: 100vh;
+  background-color: grey;
+  background-image: url("C:/Users/Salma/Documents/GitHub/html_css_udemy/998_images/teaching.jpg");
+  background-size: cover;
+}
+header{
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+}
+div{
+  margin: 0 30px;
+}
+div.header_left{
+  font-size: 2rem;
+  font-weight: 800;
+}
+button.header{
+  background: transparent;
+  border: 1px solid white;
+  padding: 10px 20px;
+  border-radius: 5px;
+}
+h1{
+  font-size: 4rem;
+  font-weight: 900;
+  margin-top: 10px;
+}
+footer{
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  position: fixed;
+  bottom: 0;
+  left:0;
+  background-color: rgba(255,255,255, 0.15);
+  height: 300px;
+  width: 100%;
+}
+p.footer{
+  font-family: monospace;
+  width: 600px;
+  font-size: 1.2rem;
+}
+button.footer{
+  background-color: red;
+  border: 0;
+  height: 40px;
+  width: 200px;
+  color: white;
+  margin: 20px ;
+}
+div.footer3{
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  width: 100%;
+}
+h3{
+    font-size: 1.2rem;
+    font-weight: 100;
+
+}
